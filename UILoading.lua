@@ -87,3 +87,5 @@ task.spawn(function()
 	task.wait(0.7)
 	screenGui:Destroy()
 end)
+
+wait(2)
